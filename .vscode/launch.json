@@ -1,0 +1,28 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "examen_practic_navarro",
+            "cwd": "examen_practic_navarro",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "examen_practic_navarro (profile mode)",
+            "cwd": "examen_practic_navarro",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "examen_practic_navarro (release mode)",
+            "cwd": "examen_practic_navarro",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
